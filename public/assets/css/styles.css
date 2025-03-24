@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden; 
+  }
+  @font-face {
+    font-family: 'MyCustomFont';
+    src: url('../fonts/Xugglybug-Regular.otf') format('opentype');
+}
+  .poetsen-one-regular {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  #game-container {
+    width: 100%;
+    height: 100%;
+  }
+
